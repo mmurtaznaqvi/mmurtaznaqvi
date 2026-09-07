@@ -1,68 +1,112 @@
-# 💫 About Me:
-Engineer focused on building reliable platforms, automating infrastructure, and exploring AI for cybersecurity.
+<h1 align="center">Muhammad Murtaz Amir Naqvi</h1>
 
-🛠️ I’m currently working on  
-DevOps, cloud infrastructure, observability, and AI security projects.
+<p align="center">
+  <b>Platform &amp; Cloud Engineer</b><br>
+  I build reliable platforms, automate the infrastructure under them, and apply ML to security telemetry.
+</p>
 
-👯 I’m looking to collaborate on  
-Cloud-native systems, security tooling, ML-driven detection, and backend platforms.
-
-🤝 I’m looking for help with  
-Kubernetes internals, large-scale distributed systems, and advanced SRE practices.
-
-🌱 I’m currently learning  
-Kubernetes, platform reliability, and privacy-aware LLM systems.
-
-💬 Ask me about  
-Infrastructure automation, monitoring, Splunk dashboards, WebRTC, and machine learning for security.
-
-⚡ Fun fact  
-I like solving both system reliability problems and research problems.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamamd-murtaz-amir-naqvi)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murtazamirnaqvi@gmail.com)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?style=for-the-badge&logo=opentelemetry&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mmurtaznaqvi&theme=dark&hide_border=false&show_icons=true)<br/>
-![](https://streak-stats.demolab.com?user=mmurtaznaqvi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmurtaznaqvi&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-murtaz-amir-naqvi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:murtazamirnaqvi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img src="https://img.shields.io/badge/Newcastle%20upon%20Tyne,%20UK-24292F?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mmurtaznaqvi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### What I work on
+
+I run a distributed Splunk Enterprise platform for a large enterprise endpoint estate, covering ingest architecture, search performance, and the dashboards that make endpoint experience data actually usable. Around that I do the normal platform work of Kubernetes, multi cloud infrastructure as code, and CI/CD pipelines that people can trust.
+
+The research half is machine learning for security. Insider threat detection, anomaly detection on telemetry, and guardrails for agentic AI systems.
+
+### Focus areas
+
+| Platform &amp; Cloud | Observability | AI for Security |
+| --- | --- | --- |
+| Kubernetes (GKE, EKS) | Splunk Enterprise, SPL | Insider threat detection |
+| Terraform, Pulumi, Ansible | OpenTelemetry, Prometheus | Sequence models on telemetry |
+| AWS, GCP | Grafana, Elastic | Guardrails for agentic systems |
+| GitLab CI, GitHub Actions | SLOs and alert design | Privacy aware LLM pipelines |
+
+### Currently
+
+- **Building** endpoint experience monitoring at scale, from agent to dashboard
+- **Researching** adaptive guardrail synthesis for agentic AI applications
+- **Learning** Kubernetes internals and deeper reliability engineering practice
+- **Open to** collaboration on cloud native systems, security tooling, and ML driven detection
+
+### Toolbox
+
+**Languages**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Infrastructure**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+**Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Observability**  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Data &amp; ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Delivery**  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Selected work
+
+<!-- Replace these with real repos. Pinned repos matter more than this table, so pin 6 and keep their descriptions sharp. -->
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [repo-name](#) | One line on the problem it solves | Go, Kubernetes |
+| [repo-name](#) | One line on the problem it solves | Python, Splunk |
+| [repo-name](#) | One line on the problem it solves | Terraform, AWS |
+
+### Writing &amp; research
+
+- Insider threat detection using evolutionary hyperparameter optimisation, gradient boosting and sequence models
+- Adaptive guardrail synthesis for agentic AI applications
+
+### Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmurtaznaqvi&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&include_all_commits=true&rank_icon=github" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmurtaznaqvi&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=html,css" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mmurtaznaqvi&theme=github_dark&utcOffset=0" alt="Productive time">
+</p>
