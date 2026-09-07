@@ -1,142 +1,229 @@
-<h1 align="center">Muhammad Murtaz Amir Naqvi</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:326CE5,100:0d1117&height=200&section=header&text=Murtaz%20Naqvi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Platform%20Engineer%20%7C%20Cloud%20%26%20Kubernetes%20%7C%20ML%20for%20Security&descAlignY=56&descSize=16&descColor=58a6ff" />
+</div>
 
-<p align="center">
-  <b>Senior Platform &amp; Cloud Engineer</b><br>
-  Ten years building and operating cloud native production systems.<br>
-  Currently running a distributed Splunk platform for a large enterprise endpoint estate,<br>
-  and researching machine learning for insider threat detection.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/muhamamd-murtaz-amir-naqvi-a836278a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:murtazamirnaqvi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <img src="https://img.shields.io/badge/Newcastle%20upon%20Tyne,%20UK-24292F?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to-Platform%20%2F%20SRE%20%2F%20ML%20Security-2ea043?style=flat-square" alt="Open to">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=%E2%98%81%EF%B8%8F+Senior+Platform+Engineer+%7C+10%2B+Years;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Terraform+%7C+Ansible+%7C+GitOps;%F0%9F%93%8A+Splunk+%7C+ELK+%7C+OpenTelemetry+%7C+Observability+at+Scale;%F0%9F%A4%96+ML+for+Insider+Threat+Detection;%F0%9F%8E%93+PhD+%40+Northumbria+%7C+Agentic+AI+Guardrails+%7C+2026)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamamd-murtaz-amir-naqvi-a836278a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murtazamirnaqvi@gmail.com)
+[![Location](https://img.shields.io/badge/Newcastle_upon_Tyne-161B22?style=for-the-badge&logo=googlemaps&logoColor=58A6FF)](#)
+[![Status](https://img.shields.io/badge/Open_to-Platform_%2F_SRE_%2F_ML_Security-2EA043?style=for-the-badge)](#)
+
+</div>
 
 ---
 
-### What I work on
+## ☁️ About Me
 
-I own platform workstreams end to end. That means the Ansible roles that provision the estate, the Kubernetes clusters the workloads run on, the CI/CD that builds and ships cross platform agents, and the Splunk and ELK layers that tell you when any of it is unhappy.
+<!-- Optional: drop a terminal or infra GIF here. Keep it self hosted in this repo so it never 404s.
+<img align="right" alt="terminal" width="330" src="./assets/terminal.gif" />
+-->
 
-The other half is research. My MSc dissertation was on insider threat detection using behavioural biometrics, and I start a PhD at Northumbria in October 2026 on adaptive guardrail synthesis for agentic AI applications.
+```yaml
+apiVersion: platform.murtaz.dev/v1
+kind: Engineer
+metadata:
+  name: muhammad-murtaz-amir-naqvi
+  labels:
+    role: senior-platform-engineer
+    location: newcastle-upon-tyne
+    experience: 10y+
+spec:
+  currentlyRunning:
+    platform: Splunk Enterprise (distributed, enterprise endpoint estate)
+    scope: [ingest-architecture, search-performance, dashboards, alerting]
+  coreStack:
+    orchestration: [kubernetes, gke, eks, splunk-operator]
+    infraAsCode: [terraform, ansible, pulumi]
+    delivery: [gitlab-ci, github-actions, argocd]
+    observability: [splunk, elk, grafana, prometheus, opentelemetry]
+    languages: [go, python, cpp, bash]
+  research:
+    msc: AI-Driven Insider Threat Detection Using Behavioural Biometrics
+    phd: Adaptive Guardrail Synthesis for Agentic AI Applications
+    startsAt: 2026-10
+  funFact: >
+    I like reliability problems and research problems equally,
+    which is why I keep ending up where the two overlap.
+```
+
+<br clear="right"/>
 
 ---
 
-### Selected work
+## 🛠️ Tech Stack & Tools
 
-<!-- Add repo links where public. Closed source entries are listed without links on purpose. -->
+<div align="center">
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **AI Driven Insider Threat Detection** | XGBoost plus BiLSTM attention framework on the CERT dataset. AUPRC 0.984, precision 96.5%, recall 93%. MSc dissertation, currently being prepared for publication. | Python, PyTorch, XGBoost, CERT |
-| **Encrypted Traffic Classification** | ML classification of encrypted network traffic from DPDK and nDPI capture, validated under high throughput with Pktgen and T-Rex. | XGBoost, DNN, DPDK, nDPI |
-| **UXM Endpoint Monitoring Platform** | Distributed Splunk Enterprise platform for endpoint experience monitoring. HEC ingest architecture, search performance, dashboard and alerting layer. *Closed source.* | Splunk, SPL, Ansible, GKE |
-| **UXM Agent Build &amp; Release Pipeline** | Multi stage CI/CD compiling and packaging monitoring agents for Windows (EXE, MSI), macOS (DMG) and Linux from a single source tree. *Closed source.* | GitLab CI, GitHub Actions, C++, InnoSetup |
-| **Governed Self Service Operations** | Rundeck layer giving L1 support pre approved runbooks for cache flush, restarts and capacity actions without handing out infrastructure access. *Closed source.* | Rundeck, Ansible, Python |
-| **Centralised Log Analytics Platform** | ELK platform onboarding Cisco Meraki and other sources into unified search for incident troubleshooting. *Closed source.* | Elasticsearch, Logstash, Kibana |
-| **Android Malware Detection** | Static and dynamic feature extraction with supervised classification. MS thesis at NUST. | Python, scikit-learn |
+### ☸️ Kubernetes & Infrastructure as Code
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Rundeck](https://img.shields.io/badge/Rundeck-00A8E1?style=for-the-badge&logoColor=white)
+
+### 🌩️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logoColor=white)
+
+### 📊 Observability & Monitoring
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+### 🔄 CI/CD & GitOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 💻 Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🤖 ML & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![DPDK](https://img.shields.io/badge/DPDK-0071C5?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ---
 
-### Experience
+## 🚀 Featured Projects
 
-**Senior IT Consultant, Platform &amp; Cloud Infrastructure**  
-`MCG A/S · Apr 2021 to Present · Remote, Denmark`
-- Led Kubernetes adoption, deploying and managing Splunk on GKE via the Splunk Operator for container native lifecycle management
+<!-- Add links as you open these up. Closed source entries stay unlinked on purpose. -->
+
+<div align="center">
+
+| 🔧 Project | 📝 Description | 🛠️ Stack |
+|-----------|---------------|---------|
+| 🧠 **AI Driven Insider Threat Detection** | XGBoost plus BiLSTM attention on the CERT dataset. **AUPRC 0.984 · 96.5% precision · 93% recall.** MSc dissertation, being prepared for publication. | Python · PyTorch · XGBoost |
+| 📡 **Encrypted Traffic Classification** | ML classification of encrypted traffic from DPDK and nDPI capture, validated at line rate with Pktgen and T-Rex. | XGBoost · DNN · DPDK · nDPI |
+| 📊 **UXM Endpoint Monitoring Platform** `closed` | Distributed Splunk Enterprise platform for endpoint experience monitoring. HEC ingest architecture, search tuning, dashboard and alerting layer. | Splunk · SPL · Ansible · GKE |
+| 📦 **Cross Platform Agent Pipeline** `closed` | Multi stage CI/CD compiling and packaging monitoring agents for Windows, macOS and Linux from one source tree. | GitLab CI · GH Actions · C++ |
+| 🎛️ **Governed Self Service Ops** `closed` | Rundeck layer giving L1 support pre approved runbooks for restarts, cache flush and capacity actions with zero infra access. | Rundeck · Ansible · Python |
+| 🔍 **Centralised Log Analytics** `closed` | ELK platform unifying network and infrastructure log sources into a single search surface for incident response. | Elasticsearch · Logstash · Kibana |
+| 🦠 **Android Malware Detection** | Static and dynamic feature extraction with supervised classification. MS thesis at NUST. | Python · scikit-learn |
+
+</div>
+
+---
+
+## 💼 Experience
+
+**☁️ Senior IT Consultant, Platform & Cloud Infrastructure — MCG A/S**  
+`Apr 2021 – Present · Remote, Denmark`
+- Led Kubernetes adoption, running Splunk on GKE via the Splunk Operator for container native lifecycle management
 - Built modular Ansible roles provisioning Splunk, RabbitMQ and UXM services consistently across dev, stage and prod
-- Provisioned cloud infrastructure with Pulumi and migrated workflows to Terraform for better change control and auditability
+- Migrated infrastructure provisioning from Pulumi to Terraform for stronger change control and auditability
 - Administered Splunk Enterprise and ELK for centralised log analytics and proactive anomaly detection in production
 
-**Senior Network Programmer**  
-`Bellstone Pvt. Ltd. · Dec 2019 to Mar 2021 · Lahore, Pakistan`
+**🌐 Senior Network Programmer — Bellstone Pvt. Ltd.**  
+`Dec 2019 – Mar 2021 · Lahore, Pakistan`
 - Built AWS and GCP infrastructure for a scalable WebRTC communications platform with security first access controls
 - Containerised the platform on EKS using Kubernetes deployment patterns for resilience and controlled rollouts
 - Implemented AWS Global Accelerator for edge routing, cutting latency for international users
 
-**Software Design Engineer II**  
-`XFlow Research Inc. · May 2018 to Dec 2019 · Islamabad, Pakistan`
+**🔐 Software Design Engineer II — XFlow Research Inc.**  
+`May 2018 – Dec 2019 · Islamabad, Pakistan`
 - Engineered on prem network security platforms for high performance traffic filtering at carrier scale
-- Built a centralised site orchestration module with Python Flask APIs for remote site onboarding and control plane operations
-- Served as SME for DPDK and KVM virtualisation, guiding packet processing design and mentoring on performance engineering
+- Built a centralised site orchestration module with Python Flask APIs for remote site onboarding
+- Served as SME for DPDK and KVM virtualisation, mentoring teams on packet processing performance
 
 ---
 
-### Research &amp; education
+## 🎓 Education & Research
 
-| | | |
-| --- | --- | --- |
-| **PhD Computer Science** *(offer held, Oct 2026)* | Northumbria University | Adaptive Guardrail Synthesis for Agentic AI Applications |
-| **MSc Advanced Computer Science** | Northumbria University | AI Driven Insider Threat Detection Using Behavioural Biometrics |
-| **MS Computer Engineering** | NUST, Pakistan | Android Malware Detection Using Machine Learning |
-| **BEng Computer Engineering** | Lancaster University, UK | |
+<div align="center">
 
----
+| 🎓 Qualification | 🏛️ Institution | 📌 Focus |
+|-----------------|---------------|---------|
+| 🔬 **PhD Computer Science** | Northumbria University | Adaptive Guardrail Synthesis for Agentic AI · 🔄 Starts Oct 2026 |
+| 🎯 **MSc Advanced Computer Science** | Northumbria University | AI Driven Insider Threat Detection · ✅ 2025 |
+| ⚙️ **MS Computer Engineering** | NUST, Pakistan | Android Malware Detection Using ML · ✅ 2019 |
+| 💡 **BEng Computer Engineering** | Lancaster University, UK | ✅ 2016 |
 
-### Toolbox
-
-**Infrastructure as code &amp; orchestration**  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Rundeck](https://img.shields.io/badge/Rundeck-00A8E1?style=flat-square&logoColor=white)
-
-**Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-CC0000?style=flat-square&logoColor=white)
-
-**Observability**  
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-
-**CI/CD**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Languages**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
-![DPDK](https://img.shields.io/badge/DPDK-0071C5?style=flat-square&logoColor=white)
+</div>
 
 ---
 
-### Currently
+## 📊 GitHub Stats
 
-- **Building** endpoint experience monitoring at scale, from the C++ agent through to the Splunk dashboard
-- **Researching** guardrails for agentic AI systems, ahead of a PhD start in October 2026
-- **Learning** Kubernetes internals and deeper reliability engineering practice
-- **Open to** collaboration on cloud native platforms, security tooling and ML driven detection
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmurtaznaqvi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmurtaznaqvi&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mmurtaznaqvi&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF7B27&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</div>
 
 ---
 
-### Activity
+## 🐍 Contribution Graph
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmurtaznaqvi&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&include_all_commits=true&rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmurtaznaqvi&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=html,css" alt="Top languages">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mmurtaznaqvi/mmurtaznaqvi/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mmurtaznaqvi&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</div>
+
+---
+
+## 🌙 Currently
+
+```bash
+$ kubectl get engineer mmurtaznaqvi -o wide
+
+🔭 BUILDING   → Endpoint experience monitoring at scale, C++ agent through to Splunk dashboard
+🌱 LEARNING   → Kubernetes internals, advanced SRE practice, privacy aware LLM systems
+🔬 RESEARCH   → Guardrails for agentic AI systems, ahead of PhD start Oct 2026
+🤝 OPEN TO    → Cloud native platforms, security tooling, ML driven detection
+💬 ASK ME     → Infrastructure automation, observability, Splunk, WebRTC, ML for security
+📍 LOCATION   → Newcastle upon Tyne, United Kingdom
+```
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamamd-murtaz-amir-naqvi-a836278a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murtazamirnaqvi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmurtaznaqvi)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mmurtaznaqvi&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:326CE5,100:0d1117&height=110&section=footer" />
+
+  <b>"Everything fails, all the time. Design for it."</b>
+
+</div>
